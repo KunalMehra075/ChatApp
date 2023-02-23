@@ -2,7 +2,7 @@
 
 ### ProjectCode - organic-pets-4780-
 
-https://MyCal.netlify.app/ --> Clone of Calendly.com
+https://mycal.netlify.app/ --> Clone of Calendly.com
 
 ![MyCalgt](https://user-images.githubusercontent.com/112753481/221043576-4501abd5-d872-4171-b56a-6e27f607fa9a.png)
 
